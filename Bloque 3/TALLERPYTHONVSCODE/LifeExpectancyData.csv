@@ -1,0 +1,16 @@
+Country,Year,Region,Life expectancy,GDP
+Ecuador,2010,Americas,75.2,5000
+Ecuador,2011,Americas,75.5,5200
+Ecuador,2012,Americas,75.8,5400
+Ecuador,2013,Americas,76.0,5600
+Ecuador,2014,Americas,76.3,5800
+Peru,2010,Americas,73.1,4800
+Peru,2011,Americas,73.5,5000
+Peru,2012,Americas,73.8,5200
+Peru,2013,Americas,74.0,5400
+Peru,2014,Americas,74.3,5600
+Spain,2010,Europe,81.2,30000
+Spain,2011,Europe,81.4,30500
+Spain,2012,Europe,81.6,31000
+Spain,2013,Europe,81.8,31500
+Spain,2014,Europe,82.0,32000
